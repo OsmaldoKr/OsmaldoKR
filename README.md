@@ -39,7 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## 📊 Estadísticas
-![github stats](https://github-readme-stats.vercel.app/api?username=OsmaldoKr &show_icons=true&theme=chartreuse-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=OsmaldoKr&show_icons=true&theme=chartreuse-dark)
 
 
 
