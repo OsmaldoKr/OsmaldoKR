@@ -5,9 +5,9 @@
 <a href="https://github.com/OsmaldoKr"><img src="https://github.com/OsmaldoKr.png" width="250" height="250" alt="OsmaldoKr"/></a>
 
 
-###### ✨ Mi nombre es OsmaldoKr 🧑🏽‍💻
-###### 🗣️ Mi apodo es el PrimoKR 🎉
-###### ❤️ Soy diseñador y Programador web 💻 
+###### ✨ Mi Nombre es OsmaldoKr 🧑🏽‍💻
+###### 🗣️ Mi Apodo es el PrimoKR 🎉
+###### ❤️ Soy Diseñador y Programador web 💻 
 
 ### Habilidades principales:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
