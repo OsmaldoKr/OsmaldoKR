@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido!+a+mi+perfil;Soy+OsmaldoKr)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=!Bienvenido!+a+mi+Perfil;Soy+OsmaldoKr)](https://git.io/typing-svg) 
 
 <a href="https://github.com/OsmaldoKr"><img src="https://github.com/OsmaldoKr.png" width="250" height="250" alt="OsmaldoKr"/></a>
 
 
-###### ✨ Mi nombre es OsmaldoKr 😆
+###### ✨ Mi nombre es OsmaldoKr 🧑🏽‍💻
 ###### 🗣️ Mi apodo es el PrimoKR 🎉
-###### ❤️ Soy diseñador web y Programador web 💻 
+###### ❤️ Soy diseñador y Programador web 💻 
 
 ### Habilidades principales:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -31,7 +31,6 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
   
 ### Estudio en este momento:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
