@@ -5,8 +5,8 @@
 <a href="https://github.com/OsmaldoKr"><img src="https://github.com/OsmaldoKr.png" width="250" height="250" alt="OsmaldoKr"/></a>
 
 
-###### ✨ Mi Nombre es OsmaldoKr 🧑🏽‍💻
-###### 🗣️ Mi Apodo es el PrimoKR 🎉
+###### ✨ Mi Nombre es Kenneth Osorio Romero 🧑🏽‍💻
+###### 🗣️ Mi Apodo es el OsmaldoKR 🎉
 ###### ❤️ Soy Diseñador y Programador web 💻 
 
 ### Habilidades Principales:
